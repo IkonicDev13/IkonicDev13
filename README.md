@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 👋 Hey, I'm **Shameer Akram** — a Laravel & Full-Stack Developer passionate about building reliable, scalable, and high-performance web applications. I specialize in PHP, Laravel, Vue.js, Livewire, MySQL, and REST APIs, turning ideas into real-world digital solutions.
 🔭 I'm currently working on Laravel-powered web applications, REST APIs, and scalable backend systems<br>👯 I'm looking to collaborate on innovative Laravel, Vue.js, Livewire, and full-stack projects.<br>🤝 I'm looking for help with open-source contributions, advanced system architecture, and exploring new technologies.<br>🌱 I'm currently learning advanced Laravel techniques, application performance optimization, and modern development practices.<br>💬 Ask me about PHP, Laravel, Vue.js, Livewire, MySQL, REST APIs, and database design.<br>⚡ Fun fact: I don't just write code — I build web applications that hold up as they grow. 🚀
 
 
